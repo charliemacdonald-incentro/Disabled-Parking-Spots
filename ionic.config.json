@@ -1,0 +1,8 @@
+{
+  "name": "DisabledparkingSpots",
+  "app_id": "d029ad3f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
